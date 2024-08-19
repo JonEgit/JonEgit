@@ -6,7 +6,7 @@ as well as life cycle assesment methologies i have some experience in scientific
 Working on a career switch i strive to dive deeper into the field of data science with neuefische to use it as a means
 to ask substantial environmental questions and go back to my initial roots.
 
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on deepening my understanding of data science
 - 🌱 I’m currently learning data science & AI with neuefische
