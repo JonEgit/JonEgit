@@ -1,7 +1,6 @@
-## 🌍 Hi, I'm Jonas!
-### Data Scientist
+## Hi there 👋!
 
-Welcome to my GitHub! I'm a data scientist specializing in **environmental data and sustainability**. With a comprehensive background in **urban ecosystem science**, focusing on **climate change and climate adaptation**, as well as **life cycle assessment methodologies**, my expertise lies in machine learning and statistical modeling to extract insights. 
+I'm Jonas. I'm a **data scientist** specializing in **environmental data and sustainability**. With a comprehensive background in **urban ecosystem science**, focusing on **climate change and climate adaptation**, as well as **life cycle assessment methodologies**, my expertise lies in machine learning and statistical modeling to extract insights. 
 
 Striving to dive deeper into the field of data science using **geospatial data, time series analysis, and NLP** to ask substantial environmental questions and to bring complex facts into easy-to-understand visualizations.
 
